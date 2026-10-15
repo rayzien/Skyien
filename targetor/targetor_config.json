@@ -1,0 +1,25 @@
+{
+  "contacted_user_ids" : [],
+  "current_base_gap" : 7200,
+  "custom_message_template" : "huiii!! how r u",
+  "daily_limit" : 10,
+  "escalation_multiplier" : 1.25,
+  "escalation_step" : 3600,
+  "keywords" : 
+  [
+    "need",
+    "looking for",
+    "hire",
+    "service",
+    "anime",
+    "hello"
+  ],
+  "max_gap_seconds" : 345600,
+  "min_gap_seconds" : 7200,
+  "monitored_channels" : 
+  [
+    -1001252039408,
+    -1001823632614,
+    -1003221997866
+  ]
+}

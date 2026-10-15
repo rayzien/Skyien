@@ -1,0 +1,36 @@
+{
+  "api_id": 0,
+  "api_hash": "",
+  "phone_number": "",
+  "session_directory": "",
+  "auto_reply_enabled": true,
+  "afk_mode": false,
+  "afk_message": "[Skyien Bot] I am currently away from my phone. I will reply as soon as possible!",
+  "auto_read_messages": false,
+  "auto_reply_rules": [
+    {
+      "trigger": "ping",
+      "match_type": "exact",
+      "response": "pong! (automated via Skyien CLI)",
+      "allowed_chats": []
+    },
+    {
+      "trigger": "!help",
+      "match_type": "exact",
+      "response": "Skyien Auto-Responder is active.\nAvailable automated triggers: ping, !status, !info",
+      "allowed_chats": []
+    },
+    {
+      "trigger": "!status",
+      "match_type": "exact",
+      "response": "[OK] All systems operational on Termux AArch64!",
+      "allowed_chats": []
+    }
+  ],
+  "forward_rules": [
+    {
+      "from_chat_id": 0,
+      "to_chat_id": 0
+    }
+  ]
+}

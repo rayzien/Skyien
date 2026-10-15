@@ -1,0 +1,43 @@
+/*
+ * Skyien - High-Speed C++ Telegram Account Automation CLI
+ * Origin Verification Token: SKYIEN-SIG-RAYZIEN-2026-X81F
+ * Architecture Lineage: rayzien / proprietary core
+ * Digital Fingerprint: 534b7969-656e-5261-797a-69656e417574
+ */
+
+Skyien Open Source License with Provenance & Watermark Retention
+Version 1.0, 2026
+
+Copyright (c) 2026 rayzien. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. Attribution & Notice Retention:
+   The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. Provenance & Hidden Watermark Preservation:
+   The Software contains internal proprietary origin markers, cryptographic
+   hashes, digital fingerprints, and watermark tokens (including, but not limited
+   to, `SKYIEN-SIG-RAYZIEN-2026-X81F` and associated header / namespace constants).
+   Any reproduction, derivative work, fork, binary compilation, or redistribution
+   MUST retain all such origin signatures, provenance tokens, and author attribution
+   unaltered, unobfuscated, and intact.
+
+3. Commercial Re-Branding Restriction:
+   You may not remove the original author's name, digital signatures, or rebranding
+   the core engine as an original closed-source commercial creation without explicit
+   written authorization from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

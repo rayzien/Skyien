@@ -1,0 +1,31 @@
+# Build artifacts
+*.o
+*.o.tmp
+*.a
+*.so
+*.so.*
+*.dylib
+build/
+bin/
+lib/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local configuration & credentials
+config.json
+finder_state.json
+targetor_state.json
+session/
+tdlib_data/
+*.session
+
+# Logs & temp files
+*.log
+*.tmp
+tmp/
